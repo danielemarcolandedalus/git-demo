@@ -1,8 +1,8 @@
-#Demo Git Repository
+# Demo Git Repository
 
 First file in this repo.
 
-##Website Contents
+## Website Contents
 
 Here are the files in the website.
 
