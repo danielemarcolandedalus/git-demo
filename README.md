@@ -1,9 +1,7 @@
 #Demo Git Repository
 
-Primo file nella repository.
+First file in this repo.
 
-##Ipsum
+##Website Contents
 
-Ipsum lorem
-
-Altro Ipsum
+1. index.html
